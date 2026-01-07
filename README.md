@@ -4,6 +4,9 @@ A modern and responsive **Text-to-Speech (TTS)** web application built using **H
 This project uses the **Web Speech API** to convert user-entered text into natural-sounding speech directly in the browser.
 
 ---
+## 🚀 Live Demo
+👉 https://nikhilraghuwanshi13.github.io/Text-To-Speech-Project/
+
 
 ## 🚀 Features
 
@@ -52,5 +55,5 @@ This project uses the browser’s built-in **Web Speech API**, specifically:
 
 ---
 
-## 📂 Project Structure
+
 
